@@ -6,7 +6,7 @@ A Old Project. and a old dream of my own java IDE. i let it opensource for every
 ![MiyukiIDE Img](/readme_assets/IDE.PNG)
 
 
-**Update 0.21**
+**Update 0.1.6**
 Added Discord Rich Presence! (using JDA)
 ****
 ![MiyukiIDE Img](/readme_assets/rpc.PNG)
