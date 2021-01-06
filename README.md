@@ -1,6 +1,6 @@
 # You want to know something?
 well, i didn't wanted to show this here, because when i made this project i was still learning about code Editors, and Stuff, but yeah, i still added this here,
-because i wanted to show how my evolution in Code Editors, if you want to see the current Code Editor that i am working right now, see the "Netune Editor".
+because i wanted to show my evolution in development of Code Editors, if you want to see the current Code Editor that i am working right now, see the "Netune Editor".
 
 
 
